@@ -1,2 +1,4 @@
 # ImageAnalysis
 Fourth assignment of the Artificial Intelligence course (1DL340) at Uppsala University. The concepts of Deep Learning and Convolutional Neural Networks (CNN) for the classification of images are exercised in this assignment. TensorFlow and Keras are utilised.
+
+The goal of this aritificial neural network is to correctly predict digits (0 - 9) from a distorted version of the MNIST ("Modified National Institute of Standards and Technology") classic dataset of handwritten images. The (learn and validation) dataset contains 28000 labelled images while the test dataset contains 14000 different images. Each image consists of 28x28 greyscale pixels with values 0 - 255.
